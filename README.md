@@ -9,7 +9,8 @@ Chat application using firebase
 - A chat application built using the React JS library and Google Firebase as backend.
 - The application has a search function to easily find users to chat with. Users can load old messages to catch up on past conversations in real time.
 - The application uses Sass for the responsive design, making use of mixins for styling.
-- The application uses Sass for the responsive design, making use of mixins for styling.
+-  The authentication system of the chat application has been developed using the React Firebase v9, allowing 
+users to login or register securely.
 
 
 ## Deployement Link and Pictures
